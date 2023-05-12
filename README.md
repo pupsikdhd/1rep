@@ -1,1 +1,1 @@
-cmd
+regedit
