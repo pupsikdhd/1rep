@@ -1,1 +1,1 @@
-sus
+start calc
